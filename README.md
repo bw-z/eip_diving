@@ -6,7 +6,7 @@ Elastic IP (EIP) Diving is one of the theoretical attacks demonstrated in my Gee
 - Author: @bw_z (b@delonge.com.au)
 - Copyright (c) @bw_z (See included license for terms)
 
-![alt tag](https://raw.github.com/bw-z/eip_diving/master/photo.jpg)
+![Hacking Amazon Presentation](https://raw.github.com/bw-z/eip_diving/master/photo.jpg)
 
 EIP Diving attempts to take advantage of the process whereby Elastic IP addresses are allocated and assigned to accounts. As an EIP can be allocated, released imediately and then assigned to another users instance this attack could theoretically allow an attacker to identify many instances which are new and not yet hardened. 
 
