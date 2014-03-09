@@ -11,5 +11,5 @@ Elastic IP (EIP) Diving is one of the theoretical attacks demonstrated in my Gee
 EIP Diving attempts to take advantage of the process whereby Elastic IP addresses are allocated and assigned to accounts. As an EIP can be allocated, released imediately and then assigned to another users instance this attack could theoretically allow an attacker to identify many instances which are new and not yet hardened. 
 
 #### BEWARE
-Use of this script would be likely in violation of Amazon's TOS and you should check local laws before its use. While the range of IPs/Ports being scanned by the tool is selective, it could be classified as a Port Scanning or Ping Sweep tool.
+Use of this script would be likely in violation of Amazon's TOS and you should check local laws before its use. (Part of this script includes a ping sweep/port scanning tool)
 
